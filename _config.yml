@@ -20,11 +20,8 @@ author: Redakcja SP119
 ###############################################
 
 navbar-links:
-  Redakcja SP119: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Strona SP119: "https://sp119.edu.pl"
+  Redakcja Gazety SP119: "redakcjasp119"
+  Szkoła SP119: "https://sp119.edu.pl"
 
 ################
 # --- Logo --- #
