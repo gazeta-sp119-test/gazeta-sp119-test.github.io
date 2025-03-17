@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Redakcja SP 119
+title: Redakcja Gazety SP 119
 subtitle: dowiedz się kto tworzy Gazetę dla Ciebie
 ---
 
