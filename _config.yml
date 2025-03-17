@@ -20,7 +20,7 @@ author: Redakcja SP119
 ###############################################
 
 navbar-links:
-  About Me: "Rekacja SP119"
+  Redakcja SP119: "About me"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
